@@ -1,0 +1,6 @@
+C:\Users\yorio\source\repos\cSharptesting\cSharptesting\bin\Release\cSharptesting.exe.config
+C:\Users\yorio\source\repos\cSharptesting\cSharptesting\bin\Release\cSharptesting.exe
+C:\Users\yorio\source\repos\cSharptesting\cSharptesting\bin\Release\cSharptesting.pdb
+C:\Users\yorio\source\repos\cSharptesting\cSharptesting\obj\Release\cSharptesting.csproj.CoreCompileInputs.cache
+C:\Users\yorio\source\repos\cSharptesting\cSharptesting\obj\Release\cSharptesting.exe
+C:\Users\yorio\source\repos\cSharptesting\cSharptesting\obj\Release\cSharptesting.pdb
