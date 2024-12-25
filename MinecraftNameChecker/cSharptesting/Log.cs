@@ -33,5 +33,12 @@ public static class Log
         Environment.Exit(-1);
     }
 
+    public static void Valid(object value)
+    {
+        Log.Color(ConsoleColor.Green);
+        Console.WriteLine("[+] " + value.ToString());
+        Log.Color();
+    }
+
     private static void Color(ConsoleColor color = ConsoleColor.White) => Console.ForegroundColor = color;
 }
